@@ -24,9 +24,9 @@ A simple and secure Python script to generate a reusable Telegram `StringSession
 
 ---
 
-# **✩ Some Requirements ✩**
+#  Some Requirements 
 
-✯ Python 3.7+
+✯ Python 3.7+  
 ✯ Telethon
 
 Install dependencies with:
