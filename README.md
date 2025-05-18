@@ -6,24 +6,37 @@ A simple and secure Python script to generate a reusable Telegram `StringSession
 
 
 
-Cool Thing about SessionGenerator
+**Cool Thing about SessionGenerator**
 
 ✯ Logs into your Telegram account using `api_id`, `api_hash`, and OTP.
 ✯ Handles **2FA (Two-Step Verification)** if enabled.
+
 ✯ Generates a **string-based session** (suitable for environment variables).
+
 ✯ Sends the session string to your **Saved Messages** as plain text.
+
 ✯ Fully **terminal-based**, no GUI or command-line arguments.
+
 ✯ **VPS-friendly**: ideal for deploying userbots and automation.
+
 
 ---
 
-✩ Some Requirements ✩
+**✩ Some Requirements ✩**
 
 ✯ Python 3.7+
 ✯ Telethon
 
 Install dependencies with:
+<pre> 
+pip install telethon </pre>
 
-```bash
-pip install telethon
+**✪ How To Use Use ✪**
+
+1. Clone the repository or download the script:
+<pre>git clone https://github.com/RiTiKM416/telethon-session-generator.git
+cd telethon-session-generator
+
+
+
 
